@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Python-Classes-Near-Me-2.jpeg)
 <h1 align="center">Hi 👋, I'm Maniteja Edem</h1>
 <h3 align="center">A passionate python Developer | Data Analyst | GIS Developer | Stock Trader |</h3>
-<h3 align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+<h3 align="right" alt="coding" width="400" src=(https://dribbble.com/shots/15661183-Web-Development-3D-Illustration/attachments/7455373?mode=media)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manitejaedem&label=Profile%20views&color=0e75b6&style=flat" alt="manitejaedem" /> </p>
