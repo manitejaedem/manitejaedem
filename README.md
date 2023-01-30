@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freepik.com/premium-photo/various-computer-equipment-with-programming-code-screens-table-dark-room-cyber-security-concept-copy-space_10457432.htm#page=2&query=python%20developer&position=32&from_view=keyword)
+[![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Python-Classes-Near-Me-2.jpeg)
 <h1 align="center">Hi 👋, I'm Maniteja Edem</h1>
 <h3 align="center">A passionate python Developer | Data Analyst | GIS Developer | Stock Trader |</h3>
 <h3 align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
